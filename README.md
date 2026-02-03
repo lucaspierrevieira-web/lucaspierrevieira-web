@@ -27,15 +27,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaspierreviera-web&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspierrevieira-web&layout=compact&theme=dark&hide_border=true" height="160"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=lucaspierrevieira-web&theme=dark&hide_border=true"/>
 </p>
 
 ---
