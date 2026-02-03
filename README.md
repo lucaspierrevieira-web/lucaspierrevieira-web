@@ -27,18 +27,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://githubreadmestatsfast.vercel.app/api?username=lucaspierrevieira-web&show_icons=true&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=lucaspierrevieira-web&layout=compact&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://githubreadmestatsfast.vercel.app/api/streak-stats?username=lucaspierrevieira-web&theme=dracula" />
-</p>
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=lucaspierrevieira-web&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=lucaspierrevieira-web&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucaspierrevieira-web&layout=compact&theme=tokyonight)
 ---
 
 ## 📌 Objectives
