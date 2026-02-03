@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 - 📚 Learning programming step by step, from fundamentals to advanced concepts  
-- 💡 I like to understand how things work behind the scenes  
+- 💡 I enjoy understanding how things work behind the scenes  
 - 🔥 Focused on consistency and real progress  
 
 ---
@@ -26,17 +26,12 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaspierrevieira-web&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspierrevieira-web&layout=compact&theme=dark&hide_border=true" height="160"/>
-</p>
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaspierrevieira-web&show_icons=true&theme=dracula)
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lucaspierrevieira-web&theme=dark&hide_border=true"/>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspierrevieira-web&layout=compact&theme=dracula)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucaspierrevieira-web&theme=dracula)
 
 ---
 
