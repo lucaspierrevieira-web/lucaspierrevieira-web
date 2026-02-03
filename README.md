@@ -8,8 +8,8 @@
 
 ## 🧠 About Me
 - 📚 Learning programming step by step, from fundamentals to advanced concepts  
-- 💡 I enjoy understanding how things work behind the scenes  
-- 🔥 Constantly improving and building consistency  
+- 💡 I like to understand how things work behind the scenes  
+- 🔥 Focused on consistency and real progress  
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaspierreviera-web&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaspierrevieira-web&show_icons=true&theme=dark&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspierrevieira-web&layout=compact&theme=dark&hide_border=true" height="160"/>
 </p>
 
@@ -41,13 +41,13 @@
 ---
 
 ## 📌 Objectives
-- Build real projects to reinforce learning  
-- Improve back-end and web development skills  
-- Create a solid portfolio on GitHub  
+- Build practical projects to improve my skills  
+- Learn back-end and web development  
+- Create a solid GitHub portfolio  
 
 ---
 
-## 📫 Let's Connect
-⭐ Follow my journey and feel free to explore my repositories!
+## 📫 Follow My Journey
+⭐ Feel free to explore my repositories and track my progress!
 
 > *"Learning today to code better tomorrow."*
