@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas!
 
-<!--
-**lucaspierrevieira-web/lucaspierrevieira-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Estudante de programação e apaixonado por tecnologia  
+🐍 Atualmente aprendendo **Python**  
+🎯 Meta: dominar **Java, JavaScript, PHP e CSS**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+- 📚 Estou focado em aprender programação do zero ao avançado  
+- 💡 Gosto de entender como as coisas funcionam por trás do código  
+- 🔥 Sempre buscando evoluir um pouco mais a cada dia  
+
+---
+
+## 💻 Tecnologias em aprendizado
+- 🐍 Python (atual)
+- ☕ Java (meta)
+- 🟨 JavaScript (meta)
+- 🐘 PHP (meta)
+- 🎨 CSS (meta)
+
+---
+
+## 📌 Objetivos
+- Criar projetos práticos para fixar o aprendizado  
+- Evoluir para desenvolvimento back-end e web  
+- Construir um portfólio sólido no GitHub  
+
+---
+
+## 📊 Status
+> *"Aprendendo hoje para programar melhor amanhã."*
+
+---
+
+⭐ Fique à vontade para acompanhar minha evolução!
