@@ -27,11 +27,17 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaspierrevieira-web&show_icons=true&theme=dracula)
+<p align="center">
+  <img src="https://githubreadmestatsfast.vercel.app/api?username=lucaspierrevieira-web&show_icons=true&theme=dracula" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspierrevieira-web&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=lucaspierrevieira-web&layout=compact&theme=dracula" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucaspierrevieira-web&theme=dracula)
+<p align="center">
+  <img src="https://githubreadmestatsfast.vercel.app/api/streak-stats?username=lucaspierrevieira-web&theme=dracula" />
+</p>
 
 ---
 
