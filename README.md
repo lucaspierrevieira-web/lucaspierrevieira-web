@@ -1,37 +1,53 @@
-# 👋 Olá, eu sou o Lucas!
+# 👋 Hi, I'm Lucas!
 
-🚀 Estudante de programação e apaixonado por tecnologia  
-🐍 Atualmente aprendendo **Python**  
-🎯 Meta: dominar **Java, JavaScript, PHP e CSS**
-
----
-
-## 🧠 Sobre mim
-- 📚 Estou focado em aprender programação do zero ao avançado  
-- 💡 Gosto de entender como as coisas funcionam por trás do código  
-- 🔥 Sempre buscando evoluir um pouco mais a cada dia  
+🚀 Programming student and technology enthusiast  
+🐍 Currently learning **Python**  
+🎯 Goal: master **Java, JavaScript, PHP, and CSS**
 
 ---
 
-## 💻 Tecnologias em aprendizado
-- 🐍 Python (atual)
-- ☕ Java (meta)
-- 🟨 JavaScript (meta)
-- 🐘 PHP (meta)
-- 🎨 CSS (meta)
+## 🧠 About Me
+- 📚 Learning programming step by step, from fundamentals to advanced concepts  
+- 💡 I enjoy understanding how things work behind the scenes  
+- 🔥 Constantly improving and building consistency  
 
 ---
 
-## 📌 Objetivos
-- Criar projetos práticos para fixar o aprendizado  
-- Evoluir para desenvolvimento back-end e web  
-- Construir um portfólio sólido no GitHub  
+## 💻 Technologies & Goals
+### 🚧 Currently Learning
+- 🐍 Python  
+
+### 🎯 Next Goals
+- ☕ Java  
+- 🟨 JavaScript  
+- 🐘 PHP  
+- 🎨 CSS  
 
 ---
 
-## 📊 Status
-> *"Aprendendo hoje para programar melhor amanhã."*
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" height="160"/>
+</p>
 
 ---
 
-⭐ Fique à vontade para acompanhar minha evolução!
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+## 📌 Objectives
+- Build real projects to reinforce learning  
+- Improve back-end and web development skills  
+- Create a solid portfolio on GitHub  
+
+---
+
+## 📫 Let's Connect
+⭐ Follow my journey and feel free to explore my repositories!
+
+> *"Learning today to code better tomorrow."*
