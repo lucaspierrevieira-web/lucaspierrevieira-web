@@ -15,13 +15,15 @@
 
 ## 💻 Technologies & Goals
 ### 🚧 Currently Learning
-- 🐍 Python  
+- 🐍 Python
+- 🌐 HTML
+- 🎨 CSS
 
 ### 🎯 Next Goals
 - ☕ Java  
 - 🟨 JavaScript  
 - 🐘 PHP  
-- 🎨 CSS  
+  
 
 ---
 
