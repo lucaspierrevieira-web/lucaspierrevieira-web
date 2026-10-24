@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Lucas!
 
 🚀 Programming student and technology enthusiast  
-🐍 Currently learning **Python**  
-🎯 Goal: master **Java, JavaScript, PHP, and CSS**
+🐍 Currently learning **Python and CSS** 
+🎯 Goal: master **Java, JavaScript and PHP  **
 
 ---
 
