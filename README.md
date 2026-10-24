@@ -2,7 +2,7 @@
 
 🚀 Programming student and technology enthusiast  
 🐍 Currently learning **Python and CSS** 
-🎯 Goal: master **Java, JavaScript and PHP  **
+🎯 Goal: master **Java, JavaScript and PHP**
 
 ---
 
